@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="titans">
+        <item>Местоимения</item>
+        <item>Слова-спутники времен</item>
+        <item>Предлоги</item>
+        <item>Вопросительные слова</item>
+        <item>Части тела и органы</item>
+        <item>Животные</item>
+    </string-array>
+</resources>
